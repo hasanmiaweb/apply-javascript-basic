@@ -24,3 +24,5 @@ var user2 = inchToFeet(100);
 console.log(user2);
 
 // Method 2 End
+
+

@@ -6,4 +6,4 @@ function leapYear(year) {
     console.log("not a leap year.");
   }
 }
-leapYear();
+leapYear(366);
